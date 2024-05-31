@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18239a3922e19c64bbe8d955e7dc4c2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MyImport: {instanceID: 0}
+  - DoubleJumpEffect: {fileID: 4098565978055305477, guid: 8f5dfcf5fb7aaf7489aa346da8b64e58, type: 3}
+  - DashEffect: {fileID: 2779026478146849905, guid: 9d59be396de03ac47940ef36907fbb87, type: 3}
+  - PowerDashEffect: {fileID: 7459894233381380966, guid: 04354191529812240a5e6861f8592758, type: 3}
+  - GroundCheckObj: {fileID: 8714541665521886597, guid: f3b070f17a748ca4cb78cc228a266059, type: 3}
+  executionOrder: -80
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

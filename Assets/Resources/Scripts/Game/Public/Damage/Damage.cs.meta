@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 364c2983fa5c33e47af84fc075b25c0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HitObj: {fileID: 5731839743055776260, guid: c4b50108548a42f4db82f58efa8e0293, type: 3}
+  - CriHitObj: {fileID: 2022826385698146315, guid: 72fd9f8c5c6b9fd46b97a7307aa54b60, type: 3}
+  - DamageTextObjects: {fileID: 507479145907623285, guid: 7c54c7a0bcef1b94b914c56cfabd8d4e, type: 3}
+  - DamageText: {fileID: 8170088697696852277, guid: 0bf1ae4023c1d354d8697abd357dbcdb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
